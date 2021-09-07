@@ -3,7 +3,7 @@ defmodule Rollbax.Mixfile do
 
   @version "0.11.0"
 
-  @default_api_endpoint "https://api.rollbar.com/api/1/item/"
+  @default_api_endpoint "https://api123.rollbar123.com/api/1/item/"
 
   def project() do
     [
